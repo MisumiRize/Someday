@@ -2,6 +2,6 @@ Someday
 =======
 TBD
 ```java
-Someday.After(this);
+Someday.after(this);
 Someday.fulfill(this, "* * * * *", pendingIntent);
 ```
